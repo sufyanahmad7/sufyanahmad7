@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sufyanahmad7 (based in Singapore)
-- 👀 I’m interested in developing applications that can impact people and societies.
+- 👀 I’m interested in developing applications that can impact people and change the world for the better.
 - 🌱 I’m currently learning JavaScript, React Native and Python.
 - 💞️ I’m looking to collaborate on basically anything. We can discuss.
 - 📫 You can reach me at nayfussufyan@gmail.com
