@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sufyan (based in Singapore)
-- 👀 I’m interested in data and developing applications in the fintech space.
+- 👀 I’m interested in data and automation with Python and Excel.
 - 🌱 I learned SQL, Python, JavaScript and React Native.
-- 💞️ I’m looking to collaborate on basically anything (even if it's outside fintech). We can discuss.
+- 💞️ Let's collaborate (even if it's outside fintech)! We can discuss.
 - 📫 You can reach me at nayfussufyan@gmail.com
 
 <!---
